@@ -1,6 +1,6 @@
 # Jogo da velha em Java
 
-<p style="text-align: center">
+<p align="center">
 <img src=".github/img.png" height="200" alt="jogo da velha" />
 <p>
 
